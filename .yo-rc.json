@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.app.derin.uaa",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.6.0",
+    "applicationType": "uaa",
+    "baseName": "authService",
+    "packageName": "com.app.derin.uaa",
+    "packageFolder": "com/app/derin/uaa",
+    "serverPort": "9999",
+    "authenticationType": "uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MTFlYWFjYzc3NTBiYzQyYjJjNjdhOTFjZDYxN2RlNzg0MjY4MTVhNjcwNzNlZmVmMjNiNTliODRjNGIyMjhhNGQ1YzA3ZjMwNGU5Y2JlOTQ0Y2ZmNjEwNDk3MmU0Nzg1ZDI3MTY0YWQ1ZmY0OWIwOGU3Y2JjMmQ5YjU0NmY5ZDY=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1579088462096,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": ["en"],
+    "blueprints": [],
+    "skipClient": true
+  }
+}
